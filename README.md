@@ -97,17 +97,10 @@ git push -u origin main
 
 ---
 
-## 9. GitHub Pages Deployment Instructions
+## 9. GitHub live pages
 
-Once your code is pushed to GitHub, you can host the live website for free using **GitHub Pages**:
+ live website URL:https://wadityasingh.github.io/SnapFAQs-Day-10-FAQ-Accordion/
 
-1. Open your repository on [GitHub.com](https://github.com).
-2. Click the **Settings** tab at the top of the repository.
-3. In the left sidebar, click **Pages** (under the *Code and automation* section).
-4. Under **Build and deployment → Source**, select **Deploy from a branch**.
-5. Under **Branch**, choose **`main`** and select **`/ (root)`**, then click **Save**.
-6. Wait 1–2 minutes and refresh the page. GitHub will display your live website URL:
-   `https://<your-username>.github.io/snapfaqs-day10/`
 
 ---
 
